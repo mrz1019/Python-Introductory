@@ -1,4 +1,4 @@
-# Introduction to Python Preview Material for 2020 TechX
+# Introduction to Python Preview Material for 2021 TechX
 
 This preview material provide a self-study introduction to computing
 with Python. They were originally developed for the computing course in Part
